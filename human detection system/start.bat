@@ -1,0 +1,1 @@
+cmd   "/k activate tensorflow && python stranger_detection.py"
